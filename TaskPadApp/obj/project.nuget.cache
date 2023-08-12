@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9bbGVmuufrSq72jj9rPK83CaK7FK5nSeiL4iDEY8BRFpdc8hhIoXv1BfuUnDUqt+O8SK2A9CZGWENxCK+pBQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SumitShetty\\source\\repos\\TaskPadApp\\TaskPadApp\\TaskPadApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SumitShetty\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512",
+    "C:\\Users\\SumitShetty\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
